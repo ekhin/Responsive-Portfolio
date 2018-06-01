@@ -209,7 +209,7 @@ nav a:hover {
   color: #065038;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (min-width: 769px) {
 	.sector {
 		width: 68%;
 	}
